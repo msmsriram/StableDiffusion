@@ -1,4 +1,4 @@
-# StableDiffusion using FastAPI
+# StableDiffusion using FastAPI and React
 This react application leverages the model trained by Stability AI and Runway ML to generate images using the Stable Diffusion Deep Learning model.
 i have tried to give a query like "mountain with waterfalls with a house and natural trees and children are playing in front of house"
 and here is the output of the generated image
