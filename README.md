@@ -7,3 +7,9 @@ and here is the output of the generated image
 
 and i asked for realistic 4k high rest image for space black hole and nebula 
 <img width="1234" alt="image" src="https://github.com/msmsriram/StableDiffusion/assets/72329200/7faa7173-e7ff-470d-8d79-e18a5cb9f113">
+
+prompt : a man looking at the night sky with a milkyway view high res 4k
+![test1](https://github.com/msmsriram/StableDiffusion/assets/72329200/c72b54cc-4c31-45ea-86c8-0db185610c6b)
+
+prompt : old house in a lake in a horrible look with smoke fogs in a terrible forest
+![test2](https://github.com/msmsriram/StableDiffusion/assets/72329200/16be1813-6931-46aa-b6ea-68545d015111)
